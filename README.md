@@ -15,8 +15,7 @@ This project demonstrates a complete offline-first solution using Flutter for th
    - Syncing occurs automatically when the internet is connected.
 
 3. **Frontend**:
-   - Built using Flutter, supporting offline functionality and providing a clean user interface.
-   - Fetches location data using `geolocator` and `geocoding`.
+   - Built using Flutter, supporting offline functionality uisng `flutter_background_service` and providing a clean user interface.
 
 4. **Backend**:
    - A lightweight REST API built with Node.js and Express.
@@ -144,4 +143,4 @@ Feel free to fork this repository and submit pull requests for any enhancements 
 ## Contact
 
 For any issues or questions, feel free to reach out:
-- GitHub: [[DeepakStark123 GitHub Profile]](https://github.com/DeepakStark123)
+- GitHub: [[Sachin Kumar Bharti GitHub Profile]](https://github.com/sachingit123)
